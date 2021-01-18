@@ -1,0 +1,8 @@
+﻿  CGV Project.cpp
+C:\Users\Arnold Rebello\Documents\Visual Studio 2019\Projects\CGV Project\CGV Project.cpp(375,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating code
+  3 of 914 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CGV Project.vcxproj -> C:\Users\Arnold Rebello\Documents\Visual Studio 2019\Projects\CGV Project\Release\CGV Project.exe
