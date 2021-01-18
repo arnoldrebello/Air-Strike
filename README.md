@@ -1,6 +1,8 @@
 # Air-Strike
 Modern OpenGL project in C++
 
+The Project runs at 4K and 120Hz making complete use of GPU processing and Memory
+
 Step 1: Installation and setup of IDE
 - Install Visual Studio 2019 with all essential components 
 - open VS installer -> Modify and check desktop development with C++ and game development with C++
